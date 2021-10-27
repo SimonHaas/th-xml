@@ -1,0 +1,20 @@
+<hochschule>
+	<teachers>
+		<teacher id="t1">
+			<member ref="f1" />
+		</teacher>
+		<teacher id="t2">
+			<member ref="f1" />
+		</teacher>
+	</teachers>
+	<courses>
+		<course name="Theoretische Informatik">
+			<offers ref="f1" />
+			<heldby ref="t1" />
+			<heldby ref="t2" />
+		</course>
+	</courses>
+	<faculties>
+		<faculty id="f1" />
+	</faculties>
+</hochschule>

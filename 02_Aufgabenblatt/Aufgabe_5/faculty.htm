@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+<title>faculty</title>
+</head>
+<body>
+<h1>Our faculty</h1>
+<h2>Courses</h2>
+<ul><li><span class="course">XML</span> held by <span class="teacher">Doe</span></li>
+<li><span class="course">TI</span> held by <span class="teacher">Doe</span> <span class="teacher">Smith</span></li>
+</ul>
+
+<h2>Query</h2>
+<form name="query">
+<label for="xpath">XPath</label> 
+<input type="text" id="xpath" maxlength="100"/>
+<button type="reset">Reset</button> <button type="button" onclick='myEvaluate(document.forms["query"]["xpath"].value)'>Query</button> 
+</form>
+
+<script>
+function myEvaluate(xpath) {
+  alert("Start coding here!");
+}
+</script>
+
+</body>
+</html>

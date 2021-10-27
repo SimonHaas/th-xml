@@ -1,0 +1,2129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html lang="de" xmlns="http://www.w3.org/1999/xhtml" xml:lang="de">
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta charset="utf-8" /><!-- 
+        This website is powered by TYPO3 - inspiring people to share!
+        TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
+        TYPO3 is copyright 1998-2020 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+        Information and contribution at https://typo3.org/
+-->
+  <link rel="shortcut icon" href="https://www.th-nuernberg.de/fileadmin/template/standard/img/Omega_256x256pix.png" type="image/png" />
+
+  <title>ProfessorInnen – Technische Hochschule Nürnberg Georg Simon Ohm</title>
+  <meta name="generator" content="TYPO3 CMS" />
+  <link rel="stylesheet" type="text/css" href="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/merged-860a05e3bd2945bf0a034eb34e6575b6-4f706f37e2ddd597b8cb.css" media="all" />
+  <link href="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/jquery-ui.css" rel="stylesheet" type="text/css" media="all" />
+  <link rel="stylesheet" href="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/vhs-assets-main-in-css.css" />
+  <script type="text/javascript" async="async" defer="defer" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/a">
+  </script>
+  <script type="text/javascript" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/vhs-assets-html5shiv-jquery-respond.js">
+  </script>
+  <style type="text/css">
+  /*<![CDATA[*/
+  ul.c5 {display: none;}
+  main.c4 {min-height: 590px;}
+  td.c3 {width: 58px; padding-left: 0;}
+  div.c2 {height: 0px;}
+  h2.c1 {height: 0px;}
+  /*]]>*/
+  </style>
+</head>
+
+<body class="page-1992">
+  <div class="page-wrap">
+    <header id="header">
+      <div class="container">
+        <div class="pull-left">
+          <a id="logo" tabindex="1" href="https://www.th-nuernberg.de/" name="logo">TH Nürnberg</a>
+        </div>
+
+
+        <div class="pull-right">
+          <nav id="header-nav-functions">
+            <ul class="nav nav-languages">
+              <li role="presentation" class="dropdown">
+                <a class="dropdown-toggle" tabindex="99" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">de</a>
+
+                <ul class="dropdown-menu">
+                  <li>
+                    <a href="https://www.th-nuernberg.de/en/faculties/in/faculty/people/professors/">EN</a>
+                  </li>
+                </ul>
+              </li>
+
+
+              <li data-toggle="collapse" data-target=".js-navbar-collapse">
+                <a href="#" class="toggle-menu-button"><span class="sr-only">Navigation ausklappen</span> </a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+
+        <nav id="header-nav-meta">
+          <ul class="nav">
+            <li class="">
+              <a class="togglecontent" href="#navcontent3110"><span class="visible-xs">Info</span> <span class="hidden-xs">Informationen für</span></a>
+
+              <div id="navcontent3110" class="navcontent wrapper container">
+                <div class="close-wrapper">
+                </div>
+
+
+                <h3>Informationen für</h3>
+
+
+                <section class="content content-tile">
+                  <div class="container row">
+                    <div class="col-xs-6 col-md-3 col-lg-3 tile tile-count-4 tile-text">
+                      <a href="https://www.th-nuernberg.de/studium-karriere/">
+                      <div class="textboxbox">
+                        <h2 class="h3 tile-header c1">Studieninteressierte</h2>
+
+
+                        <div class="text c2">
+                          <figure>
+                            <img class="img-responsive" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_170530__Was_wir_erwarten_Fotolia_Christian_Schwier_47402.jpg" alt="" width="672" height="266" />
+                          </figure>
+
+
+                          <p>Studienorientierung &amp; Studienwahl</p>
+                        </div>
+                      </div></a>
+                    </div>
+
+
+                    <div class="col-xs-6 col-md-3 col-lg-3 tile tile-count-4 tile-text">
+                      <a href="https://www.th-nuernberg.de/informationen-fuer/wissenschaftscommunity/">
+                      <div class="textboxbox">
+                        <h2 class="h3 tile-header c1">Wissenschaftscommunity</h2>
+
+
+                        <div class="text c2">
+                          <figure>
+                            <img class="img-responsive" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_170203_Thermische_Trennverfahren_Oliver_Kussinger__5__51.jpg" alt="" width="672" height="266" />
+                          </figure>
+
+
+                          <p>Transfer von angewandter Forschung</p>
+                        </div>
+                      </div></a>
+                    </div>
+
+
+                    <div class="col-xs-6 col-md-3 col-lg-3 tile tile-count-4 tile-text">
+                      <a href="https://www.th-nuernberg.de/informationen-fuer/unternehmen/">
+                      <div class="textboxbox">
+                        <h2 class="h3 tile-header c1">Unternehmen</h2>
+
+
+                        <div class="text c2">
+                          <figure>
+                            <img class="img-responsive" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_170526_KonferenzPause_Fotolia_MonkeyBusinessImages___f3a.jpg" alt="" width="672" height="266" />
+                          </figure>
+
+
+                          <p>Vielfältige Kooperationsmöglichkeiten</p>
+                        </div>
+                      </div></a>
+                    </div>
+
+
+                    <div class="col-xs-6 col-md-3 col-lg-3 tile tile-count-4 tile-text">
+                      <a href="https://www.th-nuernberg.de/informationen-fuer/alumni/">
+                      <div class="textboxbox">
+                        <h2 class="h3 tile-header c1">Alumni</h2>
+
+
+                        <div class="text c2">
+                          <figure>
+                            <img class="img-responsive" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_170526__Zusammenkunft_Fotolia_Rawpixel_Ltd.jpg" alt="" width="672" height="266" />
+                          </figure>
+
+
+                          <p>Vernetzen &amp; Vorteile nutzen</p>
+                        </div>
+                      </div></a>
+                    </div>
+                  </div>
+                </section>
+
+
+                <section class="content content-tile">
+                  <div class="container row">
+                    <div class="col-xs-6 col-md-3 col-lg-3 tile tile-count-4 tile-text">
+                      <a href="https://www.th-nuernberg.de/informationen-fuer/studierende/">
+                      <div class="textboxbox">
+                        <h2 class="h3 tile-header c1">Studierende</h2>
+
+
+                        <div class="text c2">
+                          <figure>
+                            <img class="img-responsive" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_170202_Lernplatz_Oliver_Kussinger__7__a509b8ba38.jpg" alt="" width="672" height="266" />
+                          </figure>
+
+
+                          <p>Alle Infos rund ums Studium</p>
+                        </div>
+                      </div></a>
+                    </div>
+
+
+                    <div class="col-xs-6 col-md-3 col-lg-3 tile tile-count-4 tile-text">
+                      <a href="https://www.th-nuernberg.de/hochschule-region/arbeitgeber-hochschule/">
+                      <div class="textboxbox">
+                        <h2 class="h3 tile-header c1">Stellensuchende</h2>
+
+
+                        <div class="text c2">
+                          <figure>
+                            <img class="img-responsive" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_170526_Begruessung_Fotolia_Antonioguillem_3225c00871.jpg" alt="" width="672" height="266" />
+                          </figure>
+
+
+                          <p>Arbeitgeber Hochschule</p>
+                        </div>
+                      </div></a>
+                    </div>
+
+
+                    <div class="col-xs-6 col-md-3 col-lg-3 tile tile-count-4 tile-text">
+                      <a href="https://www.th-nuernberg.de/hochschule-region/arbeitgeber-hochschule/">
+                      <div class="textboxbox">
+                        <h2 class="h3 tile-header c1">Beschäftigte</h2>
+
+
+                        <div class="text c2">
+                          <figure>
+                            <img class="img-responsive" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_170526_Geschaeftsunterhaltung_Fotolia_RobertKneschke_6db.jpg" alt="" width="672" height="266" />
+                          </figure>
+
+
+                          <p>Initiativ - Wertig - Vielfältig - Kollegial</p>
+                        </div>
+                      </div></a>
+                    </div>
+
+
+                    <div class="col-xs-6 col-md-3 col-lg-3 tile tile-count-4 tile-text">
+                      <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/zentrale-einrichtungen/hochschulkommunikation/">
+                      <div class="textboxbox">
+                        <h2 class="h3 tile-header c1">Presse</h2>
+
+
+                        <div class="text c2">
+                          <figure>
+                            <img class="img-responsive" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_170522_Fotograf_Fotolia_HighwayStarz_de271e2bfc.jpg" alt="" width="672" height="266" />
+                          </figure>
+
+
+                          <p>Hochschulkommunikation</p>
+                        </div>
+                      </div></a>
+                    </div>
+                  </div>
+                </section>
+              </div>
+            </li>
+
+
+            <li class=" dropdown" role="presentation">
+              <a href="#navcontent9" class="togglecontent">Einrichtungen</a>
+
+              <div id="navcontent9" class="navcontent wrapper container">
+                <div class="close-wrapper">
+                </div>
+
+
+                <h3>Einrichtungen</h3>
+
+
+                <ul class="row">
+                  <li class="col-xs-6 col-sm-4 col-lg-3">
+                    <h5>In-Institute</h5>
+
+
+                    <ul>
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/in-institute/e-beratung-onlineberatung/">E-Beratung (Onlineberatung)</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/in-institute/institut-fuer-leistungselektronische-systeme-elsys/">Institut für leistungselektronische Systeme ELSYS</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/in-institute/institut-fuer-chemie-material-und-produktentwicklung/">Institut für Chemie, Material- und Produktentwicklung</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/in-institute/institut-fuer-fahrzeugtechnik/">Institut für Fahrzeugtechnik</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/in-institute/institut-fuer-energie-und-gebaeude-ieg/">Institut für Energie und Gebäude (ieg)</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/in-institute/institut-fuer-wasserbau-und-wasserwirtschaft/">Institut für Wasserbau und Wasserwirtschaft</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/in-institute/language-center/">Language Center</a>
+                      </li>
+
+
+                      <li class="">
+                        <a href="https://ohm-professional-school.de/home/">Ohm Professional School</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/in-institute/polymer-optical-fiber-application-center/">Polymer Optical Fiber Application Center</a>
+                      </li>
+                    </ul>
+
+
+                    <h5>Weitere Einrichtungen</h5>
+
+
+                    <ul>
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/weitere-einrichtungen/innovationswerkstatt/">Innovationswerkstatt</a>
+                      </li>
+
+
+                      <li class="">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/weitere-einrichtungen/hochschuljobboerse/">Hochschuljobbörse</a>
+                      </li>
+                    </ul>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3">
+                    <h5>An-Institute</h5>
+
+
+                    <ul>
+                      <li class="">
+                        <a href="http://www.efi.fh-nuernberg.de/cig">Centrum für interdisziplinäre Gesundheitsförderung e.V.</a>
+                      </li>
+
+
+                      <li class="">
+                        <a href="http://www.iii.fh-nuernberg.de/">Institut für Interdiziplinäre Innovation</a>
+                      </li>
+
+
+                      <li class="">
+                        <a href="http://www.werkstoffanalytik.de/">Zentrum für Werkstoffanalytik Lauf</a>
+                      </li>
+                    </ul>
+
+
+                    <h5>Zentrale Einrichtungen</h5>
+
+
+                    <ul>
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/zentrale-einrichtungen/bibliothek/">Bibliothek</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/zentrale-einrichtungen/hochschulservice-fuer-familie-gleichstellung-und-gesundheit/">Hochschulservice für Familie, Gleichstellung und Gesundheit</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/zentrale-einrichtungen/hochschulkommunikation/">Hochschulkommunikation</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/zentrale-einrichtungen/zentrale-it/">Zentrale IT</a>
+                      </li>
+
+
+                      <li class="">
+                        <a href="https://www.th-nuernberg.de/forschung-innovation/beratung-und-service/kontakt-und-anfahrt/">Wissens- und Technologietransfer</a>
+                      </li>
+                    </ul>
+
+
+                    <h5>Wissenschaftliche und Forschungskooperationen</h5>
+
+
+                    <ul>
+                      <li class="">
+                        <a href="https://www.leonardo-zentrum.de/">LEONARDO - Zentrum für Kreativität und Innovation</a>
+                      </li>
+
+
+                      <li class="">
+                        <a href="http://www.encn.de/">Energie Campus Nürnberg</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/wissenschaftliche-und-forschungskooperationen/nuremberg-campus-of-technology/">Nuremberg Campus of Technology</a>
+                      </li>
+                    </ul>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3">
+                    <h5>Fraunhofer Forschungsgruppen</h5>
+
+
+                    <ul>
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/fraunhofer-forschungsgruppen/future-engineering/">Future Engineering</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/fraunhofer-forschungsgruppen/partikeltechnologien-rohstoffinnovationen-und-ressourceneffizienz/">Partikeltechnologien, Rohstoffinnovationen und Ressourceneffizienz</a>
+                      </li>
+                    </ul>
+
+
+                    <h5>Kompetenzzentren</h5>
+
+
+                    <ul>
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/kompetenzzentren/corporate-development-management-accounting-and-financial-control/">Corporate Development, Management Accounting and Financial Control</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/kompetenzzentren/energietechnik/">Energietechnik</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/kompetenzzentren/finanzen/">Finanzen</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/kompetenzzentren/gender-and-diversity-komgedi/">Gender and Diversity (KomGeDi)</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/kompetenzzentren/zentrum-fuer-kuenstliche-intelligenz-kiz/">Zentrum für Künstliche Intelligenz (KIZ)</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/kompetenzzentren/logistik/">Logistik</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/kompetenzzentren/soziale-innovationen-methoden-und-analysen-kosima/">Soziale Innovationen, Methoden und Analysen (KoSIMA)</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/kompetenzzentren/usability-engineering-center/">Usability Engineering Center</a>
+                      </li>
+                    </ul>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3">
+                    <h5>Abteilungen</h5>
+
+
+                    <ul>
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/studium-karriere/karriere/career-service/">Career Service</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/abteilungen/finanzabteilung/">Finanzabteilung</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/abteilungen/hochschulsteuerung-und-entwicklung/">Hochschulsteuerung und -entwicklung</a>
+                      </li>
+
+
+                      <li class="">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/abteilungen/international-office/">International Office</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/abteilungen/personalabteilung/">Personalabteilung</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/abteilungen/personalentwicklung/">Personalentwicklung</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/abteilungen/service-lehren-und-lernen/">Service Lehren und Lernen</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/abteilungen/studierendenservice-studienbuero/">Studienbüro</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/studium-karriere/studienorientierung-und-studienwahl/zentrale-studienberatung/">Zentrale Studienberatung</a>
+                      </li>
+
+
+                      <li class="sub">
+                        <a href="https://www.th-nuernberg.de/einrichtungen-gesamt/abteilungen/technik-facility-management/">Technik &amp; Facility Management</a>
+                      </li>
+                    </ul>
+                  </li>
+                </ul>
+              </div>
+            </li>
+
+
+            <li class=" dropdown" role="presentation">
+              <a href="#navcontent469" class="togglecontent">Fakultäten</a>
+
+              <div id="navcontent469" class="navcontent wrapper container">
+                <div class="close-wrapper">
+                </div>
+
+
+                <h3>Fakultäten</h3>
+
+
+                <ul class="row">
+                  <li class="col-xs-6 col-sm-4 col-lg-3 sub faculty faculty-ac">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/ac/">Angewandte Chemie</a>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3 sub faculty faculty-amp">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/amp/">Angewandte Mathematik, Physik und Allgemeinwissenschaften</a>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3 sub faculty faculty-ar">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/ar/">Architektur</a>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3 sub faculty faculty-bi">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/bi/">Bauingenieurwesen</a>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3 sub faculty faculty-bw">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/bw/">Betriebswirtschaft</a>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3 sub faculty faculty-d">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/d/">Design</a>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3 sub faculty faculty-efi">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/efi/">Elektrotechnik Feinwerktechnik Informationstechnik</a>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3 active sub faculty faculty-in">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/in/">Informatik</a>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3 sub faculty faculty-mbvs">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/mb-vs/">Maschinenbau und Versorgungstechnik</a>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3 sub faculty faculty-sw">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/sw/">Sozialwissenschaften</a>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3 sub faculty faculty-vt">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/vt/">Verfahrenstechnik</a>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3 sub faculty faculty-wt">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/wt/">Werkstofftechnik</a>
+                  </li>
+
+
+                  <li class="col-xs-6 col-sm-4 col-lg-3 sub faculty faculty-soh">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/soh/">Nürnberg School of Health</a>
+                  </li>
+                </ul>
+              </div>
+            </li>
+
+
+            <li class=" search">
+              <a class="togglecontent" href="#navcontent3890" aria-label="Suche"></a>
+
+              <div id="navcontent3890" class="navcontent wrapper container">
+                <div class="close-wrapper">
+                </div>
+
+
+                <div class="tx-solr row col-md-8 col-md-offset-2 tx-solr-searchbox" id="c9302">
+                  <script type="text/javascript">
+                                /*<![CDATA[*/
+                                var tx_solr_suggestUrl = 'https://www.th-nuernberg.de/?eID=tx_solr_suggest&id=1992';
+                                /*]]>*/
+                  </script>
+
+                  <form action="/suche/" method="get" accept-charset="utf-8">
+                    <input type="hidden" name="id" value="3889" /> <input type="hidden" name="L" value="0" />
+
+                    <div class="input-group">
+                      <input type="text" placeholder="Was möchten Sie finden?" id="inputText" class="form-control tx-solr-q ui-autocomplete-input" name="q" autocomplete="off" /> <span class="hidden input-group-btn"><input type="submit" class="btn btn-primary" value="Suche" /></span>
+                    </div>
+                  </form>
+                </div>
+              </div>
+            </li>
+          </ul>
+        </nav>
+      </div>
+
+
+      <nav class="navbar navbar-default navbar-static">
+        <div class="inner">
+          <span class="h5">FAKULTÄT INFORMATIK</span>
+
+          <div class="collapse navbar-collapse js-navbar-collapse">
+            <ul class="nav navbar-nav">
+              <li class="dropdown dropdown-large active sub">
+                <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/dekanat/" class="dropdown-toggle active sub" data-toggle="dropdown">Fakultät</a>
+
+                <div class="dropdown-menu dropdown-menu-large container">
+                  <div class="col-sm-3">
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/dekanat/">Dekanat</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/funktionstraeger/">Funktionsträger</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/professorinnen/">Personen</a>
+
+                        <ul class="level-3">
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/professorinnen/">ProfessorInnen</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/lehrbeauftragte/">Lehrbeauftragte</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/mitarbeiterinnen/">MitarbeiterInnen</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/im-ruhestand/">Im Ruhestand</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+
+
+                  <div class="col-sm-3">
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/labore/">Labore</a>
+
+                        <ul class="level-3">
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/labore/informatik-labor/">Informatik-Labor</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/labore/automotive-software/">Automotive Software</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/labore/business-intelligence/">Business Intelligence</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/labore/crm-labor/">CRM-Labor</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/labore/game-tech-lab/">Game Tech Lab</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/labore/erp-systeme/">ERP-Systeme</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/labore/grafiklabor/">Grafiklabor</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/labore/multimedia/">Multimedia</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/labore/pervasive-computing/">Pervasive Computing</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/human-computer-interaction/physical-computing-lab/">Physical Computing Lab</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+
+
+                  <div class="col-sm-3">
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/wissens-und-technologietransfer/">Wissens- und Technologietransfer</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/infothek/">InfoTHek</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/kolloquien/">Kolloquien</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://alumni.in-tra.th-nuernberg.de/">Alumni</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/wie-erreichen-sie-uns/anfahrt/h-standort-hohfederstrasse/">Anfahrt</a>
+                      </li>
+                    </ul>
+                  </div>
+
+
+                  <div class="row col-xs-12">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/dekanat/" class="btn btn-default">Fakultät</a>
+                  </div>
+                </div>
+              </li>
+
+
+              <li class="dropdown dropdown-large sub">
+                <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/" class="dropdown-toggle sub" data-toggle="dropdown">Studium</a>
+
+                <div class="dropdown-menu dropdown-menu-large container">
+                  <div class="col-sm-3">
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/absolventen-berichten/">Absolventen berichten</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/faq-zu-den-bachelor-studiengaengen/">FAQ zu den Bachelor Studiengängen</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/bachelorstudiengang-informatik/">Bachelorstudiengang Informatik</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/bachelorstudiengang-medieninformatik/">Bachelorstudiengang Medieninformatik</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/bachelorstudiengang-wirtschaftsinformatik/">Bachelorstudiengang Wirtschaftsinformatik</a>
+                      </li>
+                    </ul>
+                  </div>
+
+
+                  <div class="col-sm-3">
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/faq-zu-den-master-studiengaengen/">FAQ zu den Master Studiengängen</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/masterstudiengang-informatik/">Masterstudiengang Informatik</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/masterstudiengang-medieninformatik/">Masterstudiengang Medieninformatik</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/masterstudiengang-wirtschaftsinformatik/">Masterstudiengang Wirtschaftsinformatik</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/pruefungskommission/">Prüfungskommission</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/studienberatung-und-anmeldung/">Studienberatung und Anmeldung</a>
+                      </li>
+                    </ul>
+                  </div>
+
+
+                  <div class="col-sm-3">
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/stipendien/">Stipendien</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/vorlesungsverzeichnis/">Vorlesungsverzeichnis</a>
+                      </li>
+                    </ul>
+                  </div>
+
+
+                  <div class="row col-xs-12">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/in/studium/" class="btn btn-default">Studium</a>
+                  </div>
+                </div>
+              </li>
+
+
+              <li class="dropdown dropdown-large sub">
+                <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/" class="dropdown-toggle sub" data-toggle="dropdown">Forschung</a>
+
+                <div class="dropdown-menu dropdown-menu-large container">
+                  <div class="col-sm-3">
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/automotive-software-systems-engineering-as2e/">Automotive Software Systems Engineering (AS²E)</a>
+
+                        <ul class="level-3">
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/automotive-software-systems-engineering-as2e/vision/">Vision</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/automotive-software-systems-engineering-as2e/team/">Team</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/automotive-software-systems-engineering-as2e/ausschreibungen/">Ausschreibungen</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/automotive-software-systems-engineering-as2e/forschung/">Forschung</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/automotive-software-systems-engineering-as2e/lehre/">Lehre</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/automotive-software-systems-engineering-as2e/automotive-software-labor-und-forschungsfahrzeug/">Automotive Software Labor und Forschungsfahrzeug</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/automotive-software-systems-engineering-as2e/mitgliedschaften/">Mitgliedschaften</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://team.informatik.fh-nuernberg.de/confluence/display/FC">Confluence (nur mit Login)</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/automotive-software-systems-engineering-as2e/kontakt/">Kontakt</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/digital-humanities/enterprise-social-media/">Digital Humanities</a>
+
+                        <ul class="level-3">
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/digital-humanities/enterprise-social-media/">Enterprise-Social-Media</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/digitale-medien/">Digitale Medien</a>
+
+                        <ul class="level-3">
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/digitale-medien/codex/">Codex</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/digitale-medien/content-management-und-kontext-erfassung/">Content-Management - Kontext-Erfassung</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/games-engineering/">Games Engineering</a>
+
+                        <ul class="level-3">
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/games-engineering/homo-ludens/">Homo Ludens</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/games-engineering/ibmpp/">IBMPP</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/human-computer-interaction/">Human Computer Interaction</a>
+
+                        <ul class="level-3">
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/human-computer-interaction/team/">Team</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/human-computer-interaction/forschung/">Forschung</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/human-computer-interaction/publikationen/">Publikationen</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/human-computer-interaction/lehre/">Lehre</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/human-computer-interaction/physical-computing-lab/">Physical Computing Lab</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/human-computer-interaction/kontakt/">Kontakt</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/machine-learning/">Machine Learning</a>
+
+                        <ul class="level-3">
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/machine-learning/empamos/">Empamos</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/machine-learning/enom/">ENOM</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/machine-learning/spirio-sessions/">Spirio Sessions</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/robotik/">Robotik</a>
+
+                        <ul class="level-3">
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/robotik/carbot/">Carbot</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/robotik/bugbot/">Bugbot</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/security/">Security</a>
+
+                        <ul class="level-3">
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/security/kryptographie/">Kryptographie</a>
+                          </li>
+
+
+                          <li>
+                            <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/security/fue/">FuE</a>
+                          </li>
+                        </ul>
+                      </li>
+                    </ul>
+                  </div>
+
+
+                  <div class="row col-xs-12">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/in/forschung/" class="btn btn-default">Forschung</a>
+                  </div>
+                </div>
+              </li>
+
+
+              <li class="">
+                <a href="https://www.th-nuernberg.de/fakultaeten/in/termine-und-veranstaltungen/">Termine und Veranstaltungen</a>
+              </li>
+
+
+              <li class="dropdown dropdown-large sub">
+                <a href="https://intern.ohmportal.de/institutionen/fakultaeten/informatik/startseite-in-intranet/page.html" class="dropdown-toggle sub" data-toggle="dropdown">IN-Intranet (Studierende)</a>
+
+                <div class="dropdown-menu dropdown-menu-large container">
+                  <div class="col-sm-3">
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/in-intranet-studierende/in-vpn/">VPN</a>
+                      </li>
+                    </ul>
+                  </div>
+
+
+                  <div class="row col-xs-12">
+                    <a href="https://intern.ohmportal.de/institutionen/fakultaeten/informatik/startseite-in-intranet/page.html" class="btn btn-default">IN-Intranet (Studierende)</a>
+                  </div>
+                </div>
+              </li>
+
+
+              <li class="">
+                <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/infothek/">InfoTHek</a>
+              </li>
+
+
+              <li class="dropdown dropdown-large sub">
+                <a href="https://www.th-nuernberg.de/fakultaeten/in/in-vision-day/in-vision-day-2020/" class="dropdown-toggle sub" data-toggle="dropdown">IN VISION DAY</a>
+
+                <div class="dropdown-menu dropdown-menu-large container">
+                  <div class="col-sm-3">
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/in-vision-day/in-vision-day-2020/">IN VISION DAY 2020</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.th-nuernberg.de/fakultaeten/in/in-vision-day/in-vision-day-2018/">IN VISION DAY 2018</a>
+                      </li>
+                    </ul>
+
+
+                    <ul class="level-2 row">
+                      <li>
+                        <a href="https://www.in.th-nuernberg.de/professors/invisionday/home.html">IN VISION DAY 2016</a>
+                      </li>
+                    </ul>
+                  </div>
+
+
+                  <div class="row col-xs-12">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/in/in-vision-day/in-vision-day-2020/" class="btn btn-default">IN VISION DAY</a>
+                  </div>
+                </div>
+              </li>
+            </ul>
+          </div>
+          <!-- /.nav-collapse -->
+        </div>
+      </nav>
+    </header>
+
+
+    <main class="page-content-submenu c4">
+      <div class="breadcrumb container row">
+        <div class="col-md-3 hidden-xs hidden-sm">
+          <nav id="subnav">
+            <ul class="nav nav-subnav nav-stacked">
+              <li class="">
+                <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/dekanat/">Dekanat</a>
+              </li>
+
+
+              <li class="">
+                <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/funktionstraeger/">Funktionsträger</a>
+              </li>
+
+
+              <li class="active sub">
+                <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/professorinnen/">Personen</a>
+
+                <ul class="nav nav-subnav nav-stacked">
+                  <li class="active current">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/professorinnen/"><span>ProfessorInnen</span></a>
+                  </li>
+
+
+                  <li class="">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/lehrbeauftragte/"><span>Lehrbeauftragte</span></a>
+                  </li>
+
+
+                  <li class="">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/mitarbeiterinnen/"><span>MitarbeiterInnen</span></a>
+                  </li>
+
+
+                  <li class="">
+                    <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/im-ruhestand/"><span>Im Ruhestand</span></a>
+                  </li>
+                </ul>
+              </li>
+
+
+              <li class="sub">
+                <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/labore/">Labore</a>
+              </li>
+
+
+              <li class="">
+                <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/wissens-und-technologietransfer/">Wissens- und Technologietransfer</a>
+              </li>
+
+
+              <li class="">
+                <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/infothek/">InfoTHek</a>
+              </li>
+
+
+              <li class="">
+                <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/kolloquien/">Kolloquien</a>
+              </li>
+
+
+              <li class="">
+                <a href="https://alumni.in-tra.th-nuernberg.de/">Alumni</a>
+              </li>
+
+
+              <li class="">
+                <a href="https://www.th-nuernberg.de/wie-erreichen-sie-uns/anfahrt/h-standort-hohfederstrasse/">Anfahrt</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+
+        <div class="col-md-9 row">
+          <div class="col-sm-2 col-sm-push-10"><img class="sublogo img-responsive" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_th_nuernberg_ohmicon_in_e6fb224076.png" alt="Informatik Ohmicon" title="Informatik" width="90" height="90" />
+          </div>
+
+
+          <div class="col-sm-10 col-sm-pull-2">
+            <nav class="breadcrumb-nav">
+              <p><a href="https://www.th-nuernberg.de/" class="active sub" aria-label="Startseite"></a>&nbsp;&nbsp;/&nbsp; <a href="https://www.th-nuernberg.de/fakultaeten/in/" class="active sub">Informatik</a>&nbsp;&nbsp;/&nbsp;&nbsp; <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/dekanat/" class="active sub">Fakultät</a>&nbsp;&nbsp;/&nbsp;&nbsp; <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/professorinnen/" class="active sub">Personen</a>&nbsp;&nbsp;/&nbsp;&nbsp;</p>
+
+
+              <h1 class="active current">ProfessorInnen</h1>
+            </nav>
+          </div>
+        </div>
+      </div>
+      <!--TYPO3SEARCH_begin-->
+
+
+      <div class="container row col-md-9 col-md-offset-3 col-content tx-persons" id="c14558">
+        <table class="table table-hover">
+          <thead>
+            <tr>
+              <th>
+              </th>
+
+              <th>Name</th>
+
+              <th>Kontakt</th>
+            </tr>
+          </thead>
+
+
+          <tbody>
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Jens Albrecht" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_145310-18_30affa7183.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/albrecht-jens/"><span itemprop="givenName">Jens</span> <span itemprop="familyName">Albrecht</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1195</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:jens.albrecht@th-nuernberg.de">jens.albrecht<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Tobias Bocklet" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_371342-18_754b8dc2e2.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/bocklet-tobias/"><span itemprop="givenName">Tobias</span> <span itemprop="familyName">Bocklet</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1186</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:tobias.bocklet@th-nuernberg.de">tobias.bocklet<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Wolfgang Bremer" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_252701-3_e20be678c5.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/bremer-wolfgang/"><span itemprop="givenName">Wolfgang</span> <span itemprop="familyName">Bremer</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1285</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:wolfgang.bremer@th-nuernberg.de">wolfgang.bremer<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Patricia Brockmann" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_placeholder_b0416694c7.png" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/brockmann-patricia/"><span itemprop="givenName">Patricia</span> <span itemprop="familyName">Brockmann</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1170</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:patricia.brockmann@th-nuernberg.de">patricia.brockmann<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Thomas Fuhr" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_76236-5_060f8c5cef.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/fuhr-thomas/"><span itemprop="givenName">Thomas</span> <span itemprop="familyName">Fuhr</span> </a></strong><br />
+              Prof. Dr. rer. nat.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1242</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:thomas.fuhr@th-nuernberg.de">thomas.fuhr<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Florian Gallwitz" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_117628-22_be608d854d.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/gallwitz-florian/"><span itemprop="givenName">Florian</span> <span itemprop="familyName">Gallwitz</span> </a></strong><br />
+              Prof. Dr.-Ing.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1677</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:florian.gallwitz@th-nuernberg.de">florian.gallwitz<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Timo Götzelmann" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_180822-3_1540d67d04.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/goetzelmann-timo/"><span itemprop="givenName">Timo</span> <span itemprop="familyName">Götzelmann</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1616</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:timo.goetzelmann@th-nuernberg.de">timo.goetzelmann<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Rainer Groß" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_145320-139_2eba3a5a0c.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/gross-rainer/"><span itemprop="givenName">Rainer</span> <span itemprop="familyName">Groß</span> </a></strong><br />
+              Prof. Dr. rer. pol.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1660</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:rainer.gross@th-nuernberg.de">rainer.gross<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Axel Hein" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_placeholder_b0416694c7.png" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/hein-axel/"><span itemprop="givenName">Axel</span> <span itemprop="familyName">Hein</span> </a></strong><br />
+              Prof. Dr.-Ing. Dipl.-Inf.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:axel.hein@th-nuernberg.de">axel.hein<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Alfred Holl" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_75116-6_5613b6985f.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/holl-alfred/"><span itemprop="givenName">Alfred</span> <span itemprop="familyName">Holl</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1211</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:alfred.holl@th-nuernberg.de">alfred.holl<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Alexander Kröner" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_179752-5_529c8bc3e0.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/kroener-alexander/"><span itemprop="givenName">Alexander</span> <span itemprop="familyName">Kröner</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1184</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:alexander.kroener@th-nuernberg.de">alexander.kroener<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Michael Lang" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_408359-79_c049bf46e1.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/lang-michael/"><span itemprop="givenName">Michael</span> <span itemprop="familyName">Lang</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1615</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:michael.lang@th-nuernberg.de">michael.lang<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Hans Löhr" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_placeholder_b0416694c7.png" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/loehr-hans/"><span itemprop="givenName">Hans</span> <span itemprop="familyName">Löhr</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 4207</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:hans.loehr@th-nuernberg.de">hans.loehr<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Ronald Petrlic" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_393247-32_ed568670ce.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/petrlic-ronald/"><span itemprop="givenName">Ronald</span> <span itemprop="familyName">Petrlic</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1437</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:ronald.petrlic@th-nuernberg.de">ronald.petrlic<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Peter Rausch" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_placeholder_b0416694c7.png" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/rausch-peter/"><span itemprop="givenName">Peter</span> <span itemprop="familyName">Rausch</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1680</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:peter.rausch@th-nuernberg.de">peter.rausch<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Korbinian Riedhammer" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_353778-2_2cf381fb6f.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/riedhammer-korbinian/"><span itemprop="givenName">Korbinian</span> <span itemprop="familyName">Riedhammer</span> </a></strong><br />
+              Prof. Dr.-Ing.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1244</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:korbinian.riedhammer@th-nuernberg.de">korbinian.riedhammer<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Jörg Roth" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_92515-26_fa079ede8f.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/roth-joerg/"><span itemprop="givenName">Jörg</span> <span itemprop="familyName">Roth</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1169</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:joerg.roth@th-nuernberg.de">joerg.roth<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Bartosz von Rymon Lipinski" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_216156-3_522679644b.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/von-rymon-lipinski-bartosz/"><span itemprop="givenName">Bartosz</span> <span itemprop="familyName">von Rymon Lipinski</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1756</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:bartosz.vonrymonlipinski@th-nuernberg.de">bartosz.vonrymonlipinski<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Joachim Scheja" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_75993-88_72d9dabaca.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/scheja-joachim/"><span itemprop="givenName">Joachim</span> <span itemprop="familyName">Scheja</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1652</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:joachim.scheja@th-nuernberg.de">joachim.scheja<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Christian Schiedermeier" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_75991-75_2323fcf5d3.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/schiedermeier-christian/"><span itemprop="givenName">Christian</span> <span itemprop="familyName">Schiedermeier</span> </a></strong><br />
+              Prof. Dr.-Ing.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1179</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:christian.schiedermeier@th-nuernberg.de">christian.schiedermeier<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Heidi Schuhbauer" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_placeholder_b0416694c7.png" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/schuhbauer-heidi/"><span itemprop="givenName">Heidi</span> <span itemprop="familyName">Schuhbauer</span> </a></strong><br />
+              Prof. Dr. rer. pol.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1662</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:heidi.schuhbauer@th-nuernberg.de">heidi.schuhbauer<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Friedhelm Stappert" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_153686-86_7044edb1e3.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/stappert-friedhelm/"><span itemprop="givenName">Friedhelm</span> <span itemprop="familyName">Stappert</span> </a></strong><br />
+              Prof. Dr. rer. nat.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1668</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:friedhelm.stappert@th-nuernberg.de">friedhelm.stappert<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Ramin Tavakoli Kolagari" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_153684-9_c7fd24fc17.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/tavakoli-kolagari-ramin/"><span itemprop="givenName">Ramin</span> <span itemprop="familyName">Tavakoli Kolagari</span> </a></strong><br />
+              Prof. Dr. rer. nat.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1667</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:ramin.tavakolikolagari@th-nuernberg.de">ramin.tavakolikolagari<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Matthias Teßmann" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_228812-10_538479f782.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/tessmann-matthias/"><span itemprop="givenName">Matthias</span> <span itemprop="familyName">Teßmann</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1193</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:matthias.tessmann@th-nuernberg.de">matthias.tessmann<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Peter Trommler" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_placeholder_b0416694c7.png" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/trommler-peter/"><span itemprop="givenName">Peter</span> <span itemprop="familyName">Trommler</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:peter.trommler@th-nuernberg.de">peter.trommler<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Thomas Voit" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_228814-2_3dec86001b.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/voit-thomas/"><span itemprop="givenName">Thomas</span> <span itemprop="familyName">Voit</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1196</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:thomas.voit@th-nuernberg.de">thomas.voit<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Rainer Weber" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_placeholder_b0416694c7.png" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/weber-rainer/"><span itemprop="givenName">Rainer</span> <span itemprop="familyName">Weber</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1651</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:rainer.weber@th-nuernberg.de">rainer.weber<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Uwe Wienkop" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_75987-5_926315e8a0.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/wienkop-uwe/"><span itemprop="givenName">Uwe</span> <span itemprop="familyName">Wienkop</span> </a></strong><br />
+              Prof. Dr.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1614</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:uwe.wienkop@th-nuernberg.de">uwe.wienkop<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+                </ul>
+              </td>
+            </tr>
+
+
+            <tr itemscope="itemscope" itemtype="http://schema.org/Person">
+              <td class="c3"><img class="img-responsive" alt="Michael Zapf" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/csm_166371-10_2a935538a6.jpg" width="50" height="70" />
+              </td>
+
+              <td><strong class="text-primary"><a href="https://www.th-nuernberg.de/person/zapf-michael/"><span itemprop="givenName">Michael</span> <span itemprop="familyName">Zapf</span> </a></strong><br />
+              Prof. Dr. phil. nat.</td>
+
+              <td>
+                <ul class="fa-ul">
+                  <li><span class="sr-only">telefon</span> <span itemprop="telephone">+49 (0)911 5880 - 1658</span></li>
+
+
+                  <li>
+                    <span class="sr-only">email</span> <a href="mailto:michael.zapf@th-nuernberg.de">michael.zapf<span class="fa fa-at sr-only">at</span>th-nuernberg<span class="fa fa-circle dot-subst sr-only">Punkt</span>de</a>
+                  </li>
+
+
+                  <li><span class="sr-only">fax</span> <span itemprop="faxNumber">+49 (0)911 5880 - 5666</span></li>
+                </ul>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+
+
+      <div class="col-section">
+      </div>
+      <!--TYPO3SEARCH_end-->
+
+
+      <div class="visible-xs visible-sm">
+        <nav id="subnav">
+          <ul class="nav nav-subnav nav-stacked">
+            <li class="">
+              <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/dekanat/">Dekanat</a>
+            </li>
+
+
+            <li class="">
+              <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/funktionstraeger/">Funktionsträger</a>
+            </li>
+
+
+            <li class="active sub">
+              <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/professorinnen/">Personen</a>
+
+              <ul class="nav nav-subnav nav-stacked">
+                <li class="active current">
+                  <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/professorinnen/"><span>ProfessorInnen</span></a>
+                </li>
+
+
+                <li class="">
+                  <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/lehrbeauftragte/"><span>Lehrbeauftragte</span></a>
+                </li>
+
+
+                <li class="">
+                  <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/mitarbeiterinnen/"><span>MitarbeiterInnen</span></a>
+                </li>
+
+
+                <li class="">
+                  <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/personen/im-ruhestand/"><span>Im Ruhestand</span></a>
+                </li>
+              </ul>
+            </li>
+
+
+            <li class="sub">
+              <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/labore/">Labore</a>
+            </li>
+
+
+            <li class="">
+              <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/wissens-und-technologietransfer/">Wissens- und Technologietransfer</a>
+            </li>
+
+
+            <li class="">
+              <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/infothek/">InfoTHek</a>
+            </li>
+
+
+            <li class="">
+              <a href="https://www.th-nuernberg.de/fakultaeten/in/fakultaet/kolloquien/">Kolloquien</a>
+            </li>
+
+
+            <li class="">
+              <a href="https://alumni.in-tra.th-nuernberg.de/">Alumni</a>
+            </li>
+
+
+            <li class="">
+              <a href="https://www.th-nuernberg.de/wie-erreichen-sie-uns/anfahrt/h-standort-hohfederstrasse/">Anfahrt</a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </main>
+  </div>
+
+
+  <div class="modal fade modal-dialog modal-content" id="modalDisclaimerVideo" tabindex="-1" aria-labelledby="modalDisclaimerVideo" role="document">
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+
+      <h4 class="modal-title">Datenschutzhinweis</h4>
+    </div>
+
+
+    <div class="modal-body">
+      <p>Liebe Besucherin, lieber Besucher,<br />
+      Sie verlassen nun die Website der Technischen Hochschule Nürnberg.</p>
+
+
+      <p>Mit einem Klick auf den unten stehenden Button gelangen Sie zu . Bitte achten Sie darauf, dass Ihre dort persönlichen Daten gut geschützt sind. Beachten Sie die dortigen Datenschutzbestimmungen sowie die Einstellungen zur Privatsphäre.</p>
+    </div>
+
+
+    <div class="modal-footer">
+      <button type="button" class="btn btn-default" data-dismiss="modal">Schließen</button> <a href="#" target="_blank" class="btn btn-primary videourl">Video öffnen</a>
+    </div>
+  </div>
+
+
+  <footer id="footer">
+    <div class="container row">
+      <div class="col-sm-6">
+        <a class="navbar-brand inverse" href="#">Large Dropdown Menu</a>
+      </div>
+
+
+      <div class="col-sm-6 footer-right">
+        <div class="row col-md-12">
+          <nav class="socialbar">
+            <ul>
+              <li>
+                <a target="_blank" href="https://www.th-nuernberg.de/rss/" aria-label="rss"></a>
+              </li>
+
+
+              <li>
+                <a target="_blank" href="https://www.facebook.com/thnuernberg" aria-label="facebook"></a>
+              </li>
+
+
+              <li>
+                <a target="_blank" href="https://www.youtube.com/user/THNuernberg" aria-label="youtube"></a>
+              </li>
+
+
+              <li>
+                <a target="_blank" href="https://twitter.com/TH_Nuernberg" aria-label="twitter"></a>
+              </li>
+
+
+              <li>
+                <a target="_blank" href="https://www.xing.com/companies/technischehochschulen%C3%BCrnberg" aria-label="xing"></a>
+              </li>
+
+
+              <li>
+                <a target="_blank" href="https://instagram.com/th_nuernberg/" aria-label="instagram"></a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+
+
+        <div class="row col-md-12">
+          <nav id="meta-nav">
+            <ul class="list-inline">
+              <li class="sub">
+                <a href="https://www.th-nuernberg.de/wie-erreichen-sie-uns/" title="Wie erreichen Sie uns?" class="sub">Wie erreichen Sie uns?</a>
+              </li>
+
+
+              <li>
+                <a href="https://www.th-nuernberg.de/hochschule-region/arbeitgeber-hochschule/" title="Stellenangebote">Stellenangebote</a>
+              </li>
+
+
+              <li>
+                <a href="https://www.th-nuernberg.de/impressum/" title="Impressum">Impressum</a>
+              </li>
+
+
+              <li>
+                <a href="https://www.th-nuernberg.de/datenschutz/" title="Datenschutz">Datenschutz</a>
+              </li>
+
+
+              <li>
+                <a href="https://my.ohmportal.de/" title="Intranet">Intranet</a>
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </footer>
+  <!-- /.modal -->
+  <script>
+  <![CDATA[
+        
+          document.addEventListener("DOMContentLoaded", function(event) {
+            $('.contentslider').slick({
+                        arrows: true,
+                        dots: false,
+                        prevArrow: '<button type="button" class="slick-prev" aria-label="Inhaltsfolie zurück"><\/button>',
+                        nextArrow: '<button type="button" class="slick-next" aria-label="Inhaltsfolie vor"><\/button>',
+              
+                autoplay: true,
+                autoplaySpeed: 3000,
+              
+
+                });
+          });
+        
+  ]]>
+  </script> <!-- Piwik Code -->
+  <script type="text/javascript">
+  //<![CDATA[
+        var _paq = _paq || [];
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+                var u="https://webalytix.th-nuernberg.de/piwik/";
+                _paq.push(['setTrackerUrl', u+'piwik.php']);
+                var idsite="2";
+                _paq.push(['setSiteId', idsite]);
+                var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+                g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'js/'; s.parentNode.insertBefore(g,s);
+        })();
+  //]]>
+  </script> <!-- End Piwik Code -->
+  <script type="text/javascript" src="ProfessorInnen%20%E2%80%93%20Technische%20Hochschule%20N%C3%BCrnberg%20Georg%20Simon%20Ohm-Dateien/vhs-assets-bootstrap-chart-datetimepicker-featherlight-jquery.js">
+  </script>
+
+  <ul id="ui-id-1" tabindex="0" class="ui-menu ui-widget ui-widget-content ui-autocomplete ui-front c5">
+  </ul>
+
+
+  <div role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible">
+  </div>
+</body>
+</html>

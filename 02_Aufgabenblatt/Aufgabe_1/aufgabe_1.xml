@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<notelist>
+<note>
+ <to>Jane</to>
+ <from>John</from>
+ <heading lang="EN">Reminder</heading>
+ <body>Don't forget me!</body>
+</note>
+<note>
+ <to>John</to>
+ <from>Jane</from>
+ <heading lang="DE">Antwort</heading>
+ <body lang="DE">Danke!</body>
+</note>
+<note>
+ <to>Jane</to>
+ <from>John</from>
+ <body>You are welcome.</body>
+</note>
+<note>
+ <to>John</to>
+ <from>Jane</from>
+ <heading>Reminder</heading>
+ <body lang="DE">Bis bald!</body>
+</note>
+</notelist>
