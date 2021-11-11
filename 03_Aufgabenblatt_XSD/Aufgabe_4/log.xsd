@@ -1,25 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <xs:schema
- xmlns:xs="http://www.w3.org/2001/XMLSchema" xs:targetNamespace="http://th-nuernberg.de/IN/log/0.1">
-	<xs:element name="log">
-		<xs:complexType>
-			<xs:all>
-				<xs:element name="events">
-					<xs:complexType>
+
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://th-nuernberg.de/IN/log/0.1" elementFormDefault="qualified">
+
+    <xs:element name="log">
+
+        <xs:complexType>
+
+             <xs:all>
+
+                <xs:element name="events">
+					
+                   <xs:complexType>
+						
+						<xs:sequence minOccurs="0" maxOccurs="unbounded">
+						
+								<xs:element name="event"> 
+								
+									<xs:complexType>
+											
+											<xs:choice minOccurs="0" maxOccurs="unbounded">
+											
+												<xs:element name="agentRef" type="xs:string"/>
+												<xs:element name="objectRef" type="xs:string"/>
+											
+											</xs:choice>
+											
+											<xs:attribute name="dateTime" type="xs:dateTime"/>
+											<xs:attribute name="locationRef" type="xs:string"/>
+											<xs:attribute name="actionRef" type="xs:string"/>
+										
+										
+									</xs:complexType>
+								
+								</xs:element>
+						</xs:sequence>
 					
 					</xs:complexType>
-				</xs:element>
-				<xs:element name="actions">
-					<xs:complexType>
+
+                </xs:element>
+
+                <xs:element name="actions">
+				
+				<xs:complexType>
+					<xs:sequence minOccurs="0" maxOccurs="unbounded">
+						<xs:element name="action"> 
+							
+							<xs:complexType>
+							
+									<xs:attribute name="id" type="xs:string"/>
+									<xs:attribute name="name" type="xs:string"/>
+							
+							</xs:complexType>
+							
+						</xs:element>
 					
-					</xs:complexType>
-				</xs:element>
+					</xs:sequence>
+                  </xs:complexType>
+
+                </xs:element>
+
                 <xs:element name="entities">
-					<xs:complexType>
 					
-					</xs:complexType>
-				</xs:element>
-			</xs:all>
-		</xs:complexType>
-	</xs:element>
+						<xs:complexType>
+					<xs:sequence minOccurs="0" maxOccurs="unbounded">
+						<xs:element name="entity"> 
+							
+							<xs:complexType>
+							
+									<xs:attribute name="id" type="xs:string"/>
+									<xs:attribute name="name" type="xs:string"/>
+							
+							</xs:complexType>
+							
+						</xs:element>
+					
+					</xs:sequence>
+                  </xs:complexType>
+                    
+
+                </xs:element>
+
+            </xs:all>
+
+        </xs:complexType>
+
+    </xs:element>
+
  </xs:schema>

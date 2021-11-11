@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<log xmlns="http://th-nuernberg.de/IN/log/0.1"
+ xmlns:vc="urn:ietf:params:xml:ns:vcard-4.0"
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://th-nuernberg.de/IN/log/0.1 log.xsd">
+	<events>
+		<event dateTime="2016-05-24T11:59:14" locationRef="store001" actionRef="entering">
+			<agentRef>user001</agentRef>
+		</event>
+		<event dateTime="2016-05-24T12:03:18" locationRef="store001" actionRef="meeting">
+			<agentRef>user001</agentRef>
+			<agentRef>user002</agentRef>			
+		</event>
+		<event dateTime="2016-05-24T12:12:57" locationRef="store001" actionRef="comparing">
+			<agentRef>user001</agentRef>
+			<objectRef>product001</objectRef>
+			<objectRef>product002</objectRef>
+		</event>
+		<event dateTime="2016-05-24T12:17:01" locationRef="store001" actionRef="buying">
+			<agentRef>user001</agentRef>
+			<objectRef>product001</objectRef>
+		</event>
+	</events>
+	<actions>
+		<action id="entering" name="entering"/>
+		<action id="meeting" name="meeting"/>
+		<action id="comparing" name="comparing"/>
+		<action id="buying" name="buying"/>
+	</actions>
+	<entities>
+		<entity id="product002" name="Banana smoothie"/>
+		<entity id="user001" name="John Doe"/>
+		<entity id="store001" name="Clyde's Minimarket"/>
+		<entity id="user002" name="Jane Smith"/>
+		<entity id="product001" name="Mango smoothie"/>
+	</entities>
+</log>

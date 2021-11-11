@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" targetNamespace="http://th-nuernberg.de/IN/log/0.1" xmlns:th="http://th-nuernberg.de/IN/log/0.1" xmlns="http://th-nuernberg.de/IN/log/0.1" elementFormDefault="qualified">
+	<xs:element name="log">
+		<xs:annotation>
+			<xs:documentation xml:lang="de"> Hier steht eine Dokumentation! </xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:all>
+				<xs:element name="events">
+					<xs:complexType>
+						<xs:sequence minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="event">
+								<xs:annotation>
+									<xs:documentation xml:lang="de"> Hier steht eine Dokumentation! </xs:documentation>
+								</xs:annotation>
+								<xs:complexType>
+									<xs:choice minOccurs="0" maxOccurs="unbounded">
+										<xs:element name="agentRef" type="xs:string" />
+										<xs:element name="objectRef" type="xs:string" />
+									</xs:choice>
+									<xs:attribute name="dateTime" type="xs:dateTime" />
+									<xs:attribute name="locationRef" type="xs:string" />
+									<xs:attribute name="actionRef" type="xs:string" />
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+					<xs:keyref name="agentRefKey" refer="entityKey">
+						<xs:selector xpath="agentRef" />
+						<xs:field xpath="." />
+					</xs:keyref>
+					<xs:keyref name="objectRefKey" refer="entityKey">
+						<xs:selector xpath="objectRef" />
+						<xs:field xpath="." />
+					</xs:keyref>
+					<xs:keyref name="actionRefKey" refer="actionKey">
+						<xs:selector xpath="event" />
+						<xs:field xpath="@actionRef" />
+					</xs:keyref>
+					<xs:keyref name="locationRefKey" refer="entityKey">
+						<xs:selector xpath="event" />
+						<xs:field xpath="@locationRef" />
+					</xs:keyref>
+				</xs:element>
+				<xs:element name="actions">
+					<xs:annotation>
+						<xs:documentation xml:lang="de"> Hier steht eine Dokumentation! </xs:documentation>
+					</xs:annotation>
+					<xs:complexType>
+						<xs:sequence minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="action">
+								<xs:complexType>
+									<xs:attribute name="id" type="xs:string" />
+									<xs:attribute name="name" type="xs:string" />
+								</xs:complexType>
+								<xs:key name="actionKey">
+									<xs:selector xpath="action" />
+									<xs:field xpath="@id" />
+								</xs:key>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="entities">
+					<xs:annotation>
+						<xs:documentation xml:lang="de"> Hier steht eine Dokumentation! </xs:documentation>
+					</xs:annotation>
+					<xs:complexType>
+						<xs:sequence minOccurs="0" maxOccurs="unbounded">
+							<xs:element name="entity">
+								<xs:complexType>
+									<xs:attribute name="id" type="xs:string" />
+									<xs:attribute name="name" type="xs:string" />
+								</xs:complexType>
+								<xs:key name="entityKey">
+									<xs:selector xpath="entity" />
+									<xs:field xpath="@id" />
+								</xs:key>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

@@ -1,0 +1,35 @@
+<library>
+    <book>
+        <isbn>3810518883</isbn>
+        <title>Auf den Hund gekommen</title>
+        <character id="PP">
+            <name>Peppermint Patty</name>
+            <qualification>kühn, dreist und draufgängerisch</qualification>
+        </character>
+        <character id="Snoopy">
+            <name>Snoopy</name>
+            <qualification>Held des Buches</qualification>
+        </character>
+        <character id="Schroeder">
+            <name>Schroeder</name>
+            <qualification>brachte die klassische Musik in die Peanuts-Comics ein</qualification>
+        </character>
+        <character id="Lucy">
+            <name>Lucy</name>
+            <qualification>herrschsüchtig, kratzbürstig und egoistisch</qualification>
+        </character>
+    </book>
+    <book>
+        <isbn>3810518719</isbn>
+        <title>Alles Peanuts</title>
+        <character id="Sally">
+            <name> Sally Brown </name>
+            <qualification>sucht immer nach dem leichten Ausweg</qualification>
+        </character>
+        <character id="Snoopy">
+            <name>Snoopy</name>
+            <qualification>extrovertierter Beagle</qualification>
+        </character>
+    </book>
+    <comment about="Sally">Sally ist süß</comment>
+</library>

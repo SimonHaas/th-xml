@@ -1,0 +1,46 @@
+<xs:schema elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="library">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="book" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element name="isbn" type="xs:NMTOKEN"/>
+                            <xs:element name="title" type="xs:string"/>
+                            <xs:element name="character" maxOccurs="unbounded">
+                                <xs:complexType>
+                                    <xs:sequence>
+                                        <xs:element name="name" type="xs:string"/>
+                                        <xs:element name="qualification" type="xs:string"/>
+                                    </xs:sequence>
+                                    <xs:attribute name="id" type="xs:string"/>
+                                </xs:complexType>
+                            </xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                    <xs:key name="character">
+                        <xs:selector xpath="character"/>
+                        <xs:field xpath="@id"/>
+                    </xs:key>
+                </xs:element>
+                <xs:element name="comment" minOccurs="0" maxOccurs="unbounded">
+                    <xs:complexType>
+                        <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                                <xs:attribute name="about" type="xs:string"/>
+                            </xs:extension>
+                        </xs:simpleContent>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+        <xs:unique name="book">
+            <xs:selector xpath="book"/>
+            <xs:field xpath="isbn"/>
+        </xs:unique>
+        <xs:keyref name="comment" refer="character">
+            <xs:selector xpath="comment"/>
+            <xs:field xpath="@about"/>
+        </xs:keyref>
+    </xs:element>
+</xs:schema>
