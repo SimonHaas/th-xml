@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8"/>
+<title>Our faculty</title>
+</head>
+<body>
+<script type="text/javascript" src="saxon-js/SaxonJS2.rt.js"></script>
+
+<h1>Our faculty members</h1>
+
+<script type="text/javascript">
+	window.onload = function () {
+	console.log(SaxonJS.getProcessorInfo().productName + " " +
+	SaxonJS.getProcessorInfo().productVersion + " " + SaxonJS.getProcessorInfo().releaseDate);
+	SaxonJS.transform({
+		stylesheetLocation: "faculty.sef.json",
+        sourceLocation: "faculty.xml",
+			logLevel: 2,
+			destination: "appendToBody"
+		},
+		"async");
+};
+</script>
+
+</body>
+</html>

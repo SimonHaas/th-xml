@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Contacts>
+	<Name>
+		<Prefix>Dr</Prefix>
+		<Family>Doe</Family>
+		<Given>John</Given>
+		<Other>JD</Other>
+		<Suffix>III</Suffix>
+	</Name>
+</Contacts>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema
+ xmlns:xs="http://www.w3.org/2001/XMLSchema" xs:targetNamespace="http://th-nuernberg.de/IN/log/0.1">
+	<xs:element name="log">
+		<xs:complexType>
+			<xs:all>
+				<xs:element name="events">
+					<xs:complexType>
+					
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="actions">
+					<xs:complexType>
+					
+					</xs:complexType>
+				</xs:element>
+                <xs:element name="entities">
+					<xs:complexType>
+					
+					</xs:complexType>
+				</xs:element>
+			</xs:all>
+		</xs:complexType>
+	</xs:element>
+ </xs:schema>

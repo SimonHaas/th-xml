@@ -15,12 +15,16 @@
 <form name="query">
 <label for="xpath">XPath</label> 
 <input type="text" id="xpath" maxlength="100"/>
-<button type="reset">Reset</button> <button type="button" onclick='myEvaluate(document.forms["query"]["xpath"].value)'>Query</button> 
+<button type="reset">Reset</button> <button type="submit" onclick='myEvaluate(document.forms["query"]["xpath"].value)'>Query</button> 
 </form>
 
 <script>
 function myEvaluate(xpath) {
-  alert("Start coding here!");
+  // alert("Start coding here!");
+  console.log(xpath);
+  var result = document.evaluate( xpath, document, null, XPathResult.STRING_TYPE, null );
+  console.log(result);
+  alert( result.stringValue );
 }
 </script>
 

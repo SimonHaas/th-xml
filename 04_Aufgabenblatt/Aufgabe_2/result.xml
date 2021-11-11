@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<table class="Addresses">
+  <tr>
+    <th>Name</th>
+    <th>Salutation</th>
+  </tr>
+  <tr>
+    <td>John Doe III</td>
+    <td>Dr</td>
+  </tr>
+</table>

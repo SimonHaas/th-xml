@@ -1,0 +1,17 @@
+﻿/*
+Description: Stylesheet for XSLT exercise
+Author: Alexander Kröner
+Author URI: http://www.th-nuernberg.de
+*/
+.events {
+	background-color: #CCFFFF;
+    width: 95%;
+}
+.event {
+    width: 95%;
+}
+.event-header {
+    display: flex;
+    justify-content: space-between;
+	background-color: #CCFF99;
+}
