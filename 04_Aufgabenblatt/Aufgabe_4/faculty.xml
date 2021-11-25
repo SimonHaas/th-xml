@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<faculty>
+ <member>
+  <teacher id="Doe"/>
+  <teacher id="Smith"/>
+ </member>
+ <offers>
+  <course name="XML" heldby="Doe"/>
+  <course name="TI" heldby="Doe Smith"/>
+ </offers>
+</faculty>
