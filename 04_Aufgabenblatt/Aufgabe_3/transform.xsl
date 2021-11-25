@@ -11,7 +11,7 @@
     journal = {<xsl:value-of select="journal" />},
     volume = {<xsl:value-of select="volume" />},
     number = {<xsl:value-of select="number" />},
-    pages = {<xsl:value-of select="pages-start" />-<xsl:value-of select="pages-start + pages-number" />},
+    pages = {<xsl:value-of select="pages-start" />--<xsl:value-of select="pages-start + pages-number" />},
     year = {<xsl:value-of select="date" />}
 }
    </xsl:template>
