@@ -12,17 +12,17 @@
                 <h1>Our faculty</h1>
                 <h2>Offered courses</h2>
                 <ul>
-                    <xsl:apply-templates />
+                    <xsl:for-each select="offers/course">
+                        <li><xsl:call-template name="course" /></li>
+                    </xsl:for-each>
                 </ul>
             </body>
         </html>
     </xsl:template>
-    <xsl:template match="course">
-        <li>
-            <xsl:value-of select="@name" />
-            held by
-            <xsl:value-of select="@heldby" />
-        </li>
+    <xsl:template match="course" name="course">
+        <xsl:value-of select="@name" />
+        held by
+        <xsl:value-of select="@heldby" />
     </xsl:template>
     <xsl:template match="text()" />
 </xsl:stylesheet> 
